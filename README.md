@@ -15,25 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Steven Joenior Naibaho <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web developer, Laravel, Vue.js and all the technology behind it...</h3>
+<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Steven Joenior Naibaho <img src="https://github.com/joenior/joenior/blob/main/waving-hand_1f44b.png?raw=true" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;"><i>Still</i> a noob developer.</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: I'm in constant learning (currently Inertia.js with Laravel 8 / Nuxt / Tailwind CSS)</li>
-<li>:octocat: I’m looking to collaborate projects that make use of <strong>PHP, JavaScript, HTML, CSS, Translations</strong></li>
-<li>:brazil: From Rio Grande do Sul, Rodeio Bonito, Brazil</li>
+<li>:seedling: I'm in constant learning (currently MongoDB, Flutter and NodeJS)</li>
+<li>:octocat: I’m looking to collaborate projects that make use of <strong>PHP, JavaScript, HTML, CSS, Translations, or anything else</strong></li>
+<li>:indonesia: From Sumatera Utara, Indonesia</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
-<li>:metal: Let's Rock n' Roll and Code, baby.</li>
+<li>:man_technologist: Let's code and play~</li>
 </ul>
 <div align="center">
 <h3>Contact Me :handshake:</h3>
-<a href="https://github.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://www.linkedin.com/in/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="https://www.instagram.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
-<a href="https://twitter.com/marcelo_garbin" target="_blank"><img src="https://img.shields.io/badge/-marcelo__garbin-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
-<a href="mailto:marcelo@garbin.dev"><img src="https://img.shields.io/badge/-marcelo@garbin.dev-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
+<a href="https://github.com/joenior" target="_blank"><img src="https://img.shields.io/badge/-joenior-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="[https://www.linkedin.com/in/garbinmarcelo](https://www.linkedin.com/in/steven-j-23680b198/)" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.instagram.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Steven_J._Naibaho-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
+<a href="mailto:joeniorxd@gmail.com"><img src="https://img.shields.io/badge/-joeniorxd@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
 <br/><br/>
-<a href="https://www.buymeacoffee.com/garbinmarcelo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
+<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/joenior','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
 </div>
 
 
