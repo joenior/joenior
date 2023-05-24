@@ -32,9 +32,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/garbinmarcelo" target="_blank"><img src="https://img.shields.io/badge/-Steven_J._Naibaho-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
 <a href="mailto:joeniorxd@gmail.com"><img src="https://img.shields.io/badge/-joeniorxd@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
 <br/><br/>
-<script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/joenior','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
+<a href="teer.id/joenior" target="_blank"><img src="https://cdn.trakteer.id/images/embed/trbtn-icon.png" height="45" width="170" alt="garbinmarcelo" /></a>
 </div>
-
 
 ---
 
