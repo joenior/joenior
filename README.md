@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h3>Contact Me :handshake:</h3>
 <a href="https://github.com/joenior" target="_blank"><img src="https://img.shields.io/badge/-joenior-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="[https://www.linkedin.com/in/garbinmarcelo](https://www.linkedin.com/in/steven-j-23680b198/)" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/steven-j-23680b198/" target="_blank"><img src="https://img.shields.io/badge/-Steven_J._Naibaho-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
 <a href="https://www.instagram.com/stevenjoe24" target="_blank"><img src="https://img.shields.io/badge/-stevenjoe24-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
 <a href="mailto:joeniorxd@gmail.com"><img src="https://img.shields.io/badge/-joeniorxd@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
 <br/><br/>
