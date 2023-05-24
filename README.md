@@ -130,10 +130,3 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=joenior&style=flat-square)
 
 </div>
-
-
-------
-
-Credit: [joenior](https://github.com/joenior)
-
-Last Edited on: 18/10/2021
