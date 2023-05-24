@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/stevenjoe24" target="_blank"><img src="https://img.shields.io/badge/-stevenjoe24-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
 <a href="mailto:joeniorxd@gmail.com"><img src="https://img.shields.io/badge/-joeniorxd@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
 <br/><br/>
-<a href="teer.id/joenior" target="_blank"><img src="https://button.ibnux.net/trakteer/joenior.png" alt="Donate me :)" /></a>
+<a href="https://teer.id/joenior" target="_blank"><img src="https://button.ibnux.net/trakteer/joenior.png" alt="Donate me :)" /></a>
 </div>
 
 ---
