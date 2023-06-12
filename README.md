@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/-ubuntu-white?logo=ubuntu&logoColor=E95420&style=for-the-badge" alt="ubuntu"/></a>
 </div>
 
-<div align="center">![Git](https://github.com/images/mona-whisper.gif)</div>
+<div align="center"><img src="https://github.com/images/mona-whisper.gif" alt="shh..." /></div>
 
 ---
 
