@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 <h3>IDE & Tools</h3>
 
-<a href="https://https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/-visualstudiocode-white?logo=visualstudiocode&logoColor=0078d7&style=for-the-badge" alt="phpstorm"/></a>
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/-vscode-white?logo=visualstudiocode&logoColor=0078d7&style=for-the-badge" alt="phpstorm"/></a>
 <a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.shields.io/badge/-sublime_text-white?logo=sublimetext&logoColor=FF9800&style=for-the-badge" alt="sublimetext"/></a>
 <a href="https://www.mysql.com/products/workbench/" target="_blank"><img src="https://img.shields.io/badge/-mysql_workbench-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
 <a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://img.shields.io/badge/-phpmyadmin-white?logo=phpmyadmin&logoColor=6C78AF&style=for-the-badge" alt="phpmyadmin"/></a>
