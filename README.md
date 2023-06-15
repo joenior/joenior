@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-<h2>Knowledge Base :hammer_and_wrench:</h2>
+<h2>Learning Base :hammer_and_wrench:</h2>
 
 <h3>Back-end & Front-end</h3>
 
