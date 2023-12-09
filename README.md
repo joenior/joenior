@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Steven Joenior Naibaho <img src="https://github.com/joenior/joenior/blob/main/waving-hand_1f44b.png?raw=true" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;"><i>Still</i> a noob developer.</h3>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;"><i>Who am i?</h3>
 
 <ul style="list-style: none;">
 <li>:seedling: I'm in constant learning (currently MongoDB, Flutter and NodeJS)</li>
