@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/joenior" target="_blank"><img src="https://img.shields.io/badge/-joenior-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://www.linkedin.com/in/joenior" target="_blank"><img src="https://img.shields.io/badge/-Steven_J._Naibaho-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
 <a href="mailto:joeniorxd@gmail.com"><img src="https://img.shields.io/badge/-joeniorxd@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
-<a href="https://joenior.t.me"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="telegram"/></a>
+<a href="https://joenior.t.me"><img src="https://img.shields.io/badge/-@joenior-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="telegram"/></a>
 <br/><br/>
 <a href="https://teer.id/joenior" target="_blank"><img src="https://button.ibnux.net/trakteer/joenior.png" alt="Donate me :)" /></a>
 </div>
