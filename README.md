@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;"><i>Who am i?</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: I'm in constant learning (currently MongoDB, Flutter and NodeJS)</li>
-<li>:octocat: I’m looking to collaborate projects that make use of <strong>PHP, JavaScript, HTML, CSS, Translations, or anything else</strong></li>
+<li>:seedling: I'm in constant learning (currently Laravel)</li>
+<li>:octocat: I’m looking to collaborate projects that make use of <strong>PHP, JavaScript, HTML, CSS, Translations, etc.</strong></li>
 <li>:indonesia: From Sumatera Utara, Indonesia</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 <li>:man_technologist: Let's code and play~</li>
@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h3>Contact Me :handshake:</h3>
 <a href="https://github.com/joenior" target="_blank"><img src="https://img.shields.io/badge/-joenior-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://www.linkedin.com/in/steven-j-23680b198/" target="_blank"><img src="https://img.shields.io/badge/-Steven_J._Naibaho-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="https://www.instagram.com/stevenjoe24" target="_blank"><img src="https://img.shields.io/badge/-stevenjoe24-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
+<a href="https://www.linkedin.com/in/joenior" target="_blank"><img src="https://img.shields.io/badge/-Steven_J._Naibaho-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
 <a href="mailto:joeniorxd@gmail.com"><img src="https://img.shields.io/badge/-joeniorxd@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
 <br/><br/>
 <a href="https://teer.id/joenior" target="_blank"><img src="https://button.ibnux.net/trakteer/joenior.png" alt="Donate me :)" /></a>
